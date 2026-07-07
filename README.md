@@ -111,24 +111,6 @@ Data_cleaning_&_Visualization_Project.ipynb
 
 ---
 
-## 📷 Sample Visualizations
-
-Add your screenshots here after uploading them to the `images` folder.
-
-Example:
-
-```markdown
-### Monthly Sales Trend
-
-![Monthly Sales](images/Monthly%20Sales%20Trend.png)
-
-### Correlation Heatmap
-
-![Heatmap](images/Correlation%20Heatmap.png)
-```
-
----
-
 ## 🚀 Future Improvements
 
 - Build an interactive dashboard using Streamlit
